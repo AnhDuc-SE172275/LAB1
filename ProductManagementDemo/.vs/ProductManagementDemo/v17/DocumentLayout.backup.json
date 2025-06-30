@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\anh \u0111\u1EE9c\\PRN212\\LAB1\\ProductManagementDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68E595CC-9B23-4F18-B472-BE8024C17B81}|Repositories\\Repositories.csproj|d:\\anh \u0111\u1EE9c\\prn212\\lab1\\productmanagementdemo\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68E595CC-9B23-4F18-B472-BE8024C17B81}|Repositories\\Repositories.csproj|solutionrelative:repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E595CC-9B23-4F18-B472-BE8024C17B81}|Repositories\\Repositories.csproj|d:\\anh \u0111\u1EE9c\\prn212\\lab1\\productmanagementdemo\\repositories\\iaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68E595CC-9B23-4F18-B472-BE8024C17B81}|Repositories\\Repositories.csproj|solutionrelative:repositories\\iaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E595CC-9B23-4F18-B472-BE8024C17B81}|Repositories\\Repositories.csproj|d:\\anh \u0111\u1EE9c\\prn212\\lab1\\productmanagementdemo\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68E595CC-9B23-4F18-B472-BE8024C17B81}|Repositories\\Repositories.csproj|solutionrelative:repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E595CC-9B23-4F18-B472-BE8024C17B81}|Repositories\\Repositories.csproj|d:\\anh \u0111\u1EE9c\\prn212\\lab1\\productmanagementdemo\\repositories\\icatergoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68E595CC-9B23-4F18-B472-BE8024C17B81}|Repositories\\Repositories.csproj|solutionrelative:repositories\\icatergoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E595CC-9B23-4F18-B472-BE8024C17B81}|Repositories\\Repositories.csproj|d:\\anh \u0111\u1EE9c\\prn212\\lab1\\productmanagementdemo\\repositories\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68E595CC-9B23-4F18-B472-BE8024C17B81}|Repositories\\Repositories.csproj|solutionrelative:repositories\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{789F03FD-38B4-442B-B749-EBF1DAF363E1}|DataAccessLayer\\DataAccessLayer.csproj|d:\\anh \u0111\u1EE9c\\prn212\\lab1\\productmanagementdemo\\dataaccesslayer\\productdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{789F03FD-38B4-442B-B749-EBF1DAF363E1}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\productdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "D:\\anh \u0111\u1EE9c\\PRN212\\LAB1\\ProductManagementDemo\\Repositories\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\CategoryRepository.cs",
+              "ToolTip": "D:\\anh \u0111\u1EE9c\\PRN212\\LAB1\\ProductManagementDemo\\Repositories\\CategoryRepository.cs",
+              "RelativeToolTip": "Repositories\\CategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T12:16:18.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IAccountRepository.cs",
+              "DocumentMoniker": "D:\\anh \u0111\u1EE9c\\PRN212\\LAB1\\ProductManagementDemo\\Repositories\\IAccountRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IAccountRepository.cs",
+              "ToolTip": "D:\\anh \u0111\u1EE9c\\PRN212\\LAB1\\ProductManagementDemo\\Repositories\\IAccountRepository.cs",
+              "RelativeToolTip": "Repositories\\IAccountRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T12:16:09.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "D:\\anh \u0111\u1EE9c\\PRN212\\LAB1\\ProductManagementDemo\\Repositories\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IProductRepository.cs",
+              "ToolTip": "D:\\anh \u0111\u1EE9c\\PRN212\\LAB1\\ProductManagementDemo\\Repositories\\IProductRepository.cs",
+              "RelativeToolTip": "Repositories\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T12:15:59.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ICatergoryRepository.cs",
+              "DocumentMoniker": "D:\\anh \u0111\u1EE9c\\PRN212\\LAB1\\ProductManagementDemo\\Repositories\\ICatergoryRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ICatergoryRepository.cs",
+              "ToolTip": "D:\\anh \u0111\u1EE9c\\PRN212\\LAB1\\ProductManagementDemo\\Repositories\\ICatergoryRepository.cs",
+              "RelativeToolTip": "Repositories\\ICatergoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T12:15:48.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AccountRepository.cs",
+              "DocumentMoniker": "D:\\anh \u0111\u1EE9c\\PRN212\\LAB1\\ProductManagementDemo\\Repositories\\AccountRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\AccountRepository.cs",
+              "ToolTip": "D:\\anh \u0111\u1EE9c\\PRN212\\LAB1\\ProductManagementDemo\\Repositories\\AccountRepository.cs",
+              "RelativeToolTip": "Repositories\\AccountRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T12:12:18.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductDAO.cs",
+              "DocumentMoniker": "D:\\anh \u0111\u1EE9c\\PRN212\\LAB1\\ProductManagementDemo\\DataAccessLayer\\ProductDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\ProductDAO.cs",
+              "ToolTip": "D:\\anh \u0111\u1EE9c\\PRN212\\LAB1\\ProductManagementDemo\\DataAccessLayer\\ProductDAO.cs",
+              "RelativeToolTip": "DataAccessLayer\\ProductDAO.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T12:12:13.398Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
