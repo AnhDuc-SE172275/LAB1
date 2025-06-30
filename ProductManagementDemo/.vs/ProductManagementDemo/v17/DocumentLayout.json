@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "D:\\anh \u0111\u1EE9c\\PRN212\\LAB1\\ProductManagementDemo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{68E595CC-9B23-4F18-B472-BE8024C17B81}|Repositories\\Repositories.csproj|d:\\anh \u0111\u1EE9c\\prn212\\lab1\\productmanagementdemo\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68E595CC-9B23-4F18-B472-BE8024C17B81}|Repositories\\Repositories.csproj|solutionrelative:repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{22EB066A-8686-4338-8BC7-49A7DDB55E7F}|Services\\Services.csproj|d:\\anh \u0111\u1EE9c\\prn212\\lab1\\productmanagementdemo\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22EB066A-8686-4338-8BC7-49A7DDB55E7F}|Services\\Services.csproj|solutionrelative:services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{68E595CC-9B23-4F18-B472-BE8024C17B81}|Repositories\\Repositories.csproj|d:\\anh \u0111\u1EE9c\\prn212\\lab1\\productmanagementdemo\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68E595CC-9B23-4F18-B472-BE8024C17B81}|Repositories\\Repositories.csproj|solutionrelative:repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{22EB066A-8686-4338-8BC7-49A7DDB55E7F}|Services\\Services.csproj|d:\\anh \u0111\u1EE9c\\prn212\\lab1\\productmanagementdemo\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22EB066A-8686-4338-8BC7-49A7DDB55E7F}|Services\\Services.csproj|solutionrelative:services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22EB066A-8686-4338-8BC7-49A7DDB55E7F}|Services\\Services.csproj|d:\\anh \u0111\u1EE9c\\prn212\\lab1\\productmanagementdemo\\services\\icatergoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22EB066A-8686-4338-8BC7-49A7DDB55E7F}|Services\\Services.csproj|solutionrelative:services\\icatergoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22EB066A-8686-4338-8BC7-49A7DDB55E7F}|Services\\Services.csproj|d:\\anh \u0111\u1EE9c\\prn212\\lab1\\productmanagementdemo\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22EB066A-8686-4338-8BC7-49A7DDB55E7F}|Services\\Services.csproj|solutionrelative:services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22EB066A-8686-4338-8BC7-49A7DDB55E7F}|Services\\Services.csproj|d:\\anh \u0111\u1EE9c\\prn212\\lab1\\productmanagementdemo\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22EB066A-8686-4338-8BC7-49A7DDB55E7F}|Services\\Services.csproj|solutionrelative:services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 77,
+          "SelectedChildIndex": 76,
           "Children": [
             {
               "$type": "Bookmark",
@@ -326,28 +338,67 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "IProductRepository.cs",
-              "DocumentMoniker": "D:\\anh \u0111\u1EE9c\\PRN212\\LAB1\\ProductManagementDemo\\Repositories\\IProductRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\IProductRepository.cs",
-              "ToolTip": "D:\\anh \u0111\u1EE9c\\PRN212\\LAB1\\ProductManagementDemo\\Repositories\\IProductRepository.cs",
-              "RelativeToolTip": "Repositories\\IProductRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "D:\\anh \u0111\u1EE9c\\PRN212\\LAB1\\ProductManagementDemo\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "Services\\ProductService.cs",
+              "ToolTip": "D:\\anh \u0111\u1EE9c\\PRN212\\LAB1\\ProductManagementDemo\\Services\\ProductService.cs",
+              "RelativeToolTip": "Services\\ProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-30T02:34:23.04Z",
+              "WhenOpened": "2025-06-30T03:12:22.998Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ProductRepository.cs",
-              "DocumentMoniker": "D:\\anh \u0111\u1EE9c\\PRN212\\LAB1\\ProductManagementDemo\\Repositories\\ProductRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\ProductRepository.cs",
-              "ToolTip": "D:\\anh \u0111\u1EE9c\\PRN212\\LAB1\\ProductManagementDemo\\Repositories\\ProductRepository.cs",
-              "RelativeToolTip": "Repositories\\ProductRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "D:\\anh \u0111\u1EE9c\\PRN212\\LAB1\\ProductManagementDemo\\Services\\IProductService.cs",
+              "RelativeDocumentMoniker": "Services\\IProductService.cs",
+              "ToolTip": "D:\\anh \u0111\u1EE9c\\PRN212\\LAB1\\ProductManagementDemo\\Services\\IProductService.cs",
+              "RelativeToolTip": "Services\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-30T02:34:21.742Z",
+              "WhenOpened": "2025-06-30T03:12:21.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICatergoryService.cs",
+              "DocumentMoniker": "D:\\anh \u0111\u1EE9c\\PRN212\\LAB1\\ProductManagementDemo\\Services\\ICatergoryService.cs",
+              "RelativeDocumentMoniker": "Services\\ICatergoryService.cs",
+              "ToolTip": "D:\\anh \u0111\u1EE9c\\PRN212\\LAB1\\ProductManagementDemo\\Services\\ICatergoryService.cs",
+              "RelativeToolTip": "Services\\ICatergoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T03:12:19.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccountService.cs",
+              "DocumentMoniker": "D:\\anh \u0111\u1EE9c\\PRN212\\LAB1\\ProductManagementDemo\\Services\\AccountService.cs",
+              "RelativeDocumentMoniker": "Services\\AccountService.cs",
+              "ToolTip": "D:\\anh \u0111\u1EE9c\\PRN212\\LAB1\\ProductManagementDemo\\Services\\AccountService.cs",
+              "RelativeToolTip": "Services\\AccountService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T03:10:54.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "D:\\anh \u0111\u1EE9c\\PRN212\\LAB1\\ProductManagementDemo\\Services\\CategoryService.cs",
+              "RelativeDocumentMoniker": "Services\\CategoryService.cs",
+              "ToolTip": "D:\\anh \u0111\u1EE9c\\PRN212\\LAB1\\ProductManagementDemo\\Services\\CategoryService.cs",
+              "RelativeToolTip": "Services\\CategoryService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T03:10:53.719Z",
               "EditorCaption": ""
             }
           ]
